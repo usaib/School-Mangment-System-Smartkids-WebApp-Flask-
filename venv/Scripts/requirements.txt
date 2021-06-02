@@ -63,7 +63,7 @@ tinycss2==1.0.2
 turtleplus==0.1
 typesystem==0.2.4
 uritemplate==3.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.10
 webencodings==0.5.1
 Werkzeug==0.16.0
