@@ -45,7 +45,7 @@ MarkupSafe==1.1.1
 marshmallow==3.6.1
 msgpack==1.0.0
 mysqlclient==1.4.6
-numpy==1.17.3
+numpy==1.22.0
 orm==0.1.5
 Pillow==6.2.1
 protobuf==3.12.2
